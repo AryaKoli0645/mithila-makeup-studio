@@ -1,15 +1,15 @@
 const galleryImages = [
-  "../src/assets/img1.jpeg",
+  "/images/img1.jpeg",
   
-  "../src/assets/img2.jpeg",
+  "/images/img2.jpeg",
 
-  "../src/assets/img3.jpeg",
+  "/images/img3.jpeg",
 
-  "../src/assets/img4.jpeg",
+  "/images/img4.jpeg",
 
-  "../src/assets/img5.jpeg",
+  "/images/img5.jpeg",
 
-  "../src/assets/img6.jpeg",
+  "/images/img6.jpeg",
 ];
 
 const Gallery = () => {
