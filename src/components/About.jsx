@@ -16,7 +16,7 @@ const About = () => {
           viewport={{ once: true }}
         >
           <img
-            src="public/images/meet.png"
+            src="/images/meet.png"
             alt="Makeup Artist"
             className="rounded-3xl shadow-2xl w-full h-125 object-cover"
           />
